@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair:wght@400;700;900&display=swap');
+
+header {
+    text-align: center;
+}
+
+body {
+    margin-left: auto; margin-right: auto;
+    max-width: 600px;
+    font-family: 'Playfair', serif;
+}
+
+#main-image {
+    width: 100%;
+    height:"400px"
+}
+main {
+    text-align: center;
+}
+h5{
+    background-color: rgb(248, 171, 171);
+}
+
+#attributo {
+    color: grey;
+    margin-top: 0cm;
+}
+
+ol{
+    font-weight: bold;
+}
+
+h1{
+    font-weight: 900;
+}
+
+h5{
+    font-weight: bolder;
+}
+
+span{
+    color: orangered;
+}
